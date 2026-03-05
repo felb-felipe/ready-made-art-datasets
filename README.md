@@ -37,11 +37,11 @@ Para reproduzir as análises:
 1. Instalar o R na versão indicada (ou compatível)  
 2. Instalar os pacotes necessários (listados nos scripts ou via `renv`, se disponível)  
 3. Executar os scripts na ordem indicada em cada módulo  
-4. Os outputs (gráficos e tabelas) serão gerados automaticamente na pasta `results/` correspondente  
+4. Os outputs (gráficos e tabelas) serão gerados automaticamente na pasta `visualizations/` correspondente  
 
 ## 📊 Visualizações
 
-As principais visualizações produzidas na tese serão disponibilizadas na pasta `results/` de cada módulo e exemplos serão exibidos aqui após o upload dos gráficos.
+As principais visualizações produzidas na tese serão disponibilizadas na pasta `visualizations/` de cada módulo e exemplos serão exibidos aqui após o upload dos gráficos.
 
 ## 📄 Licença
 
@@ -60,5 +60,6 @@ Informações adicionais de citação do repositório serão fornecidas no arqui
 ## Funding
 
 This study was financed in part by the São Paulo Research Foundation (FAPESP), Grant No. 2021/00645-8.
+
 
 The opinions, hypotheses, conclusions, and recommendations expressed in this material are the sole responsibility of the author and do not necessarily reflect the views of FAPESP.
