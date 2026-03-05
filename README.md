@@ -1,3 +1,9 @@
+## Repository structure
+
+- `obras_arte` — dataset of ready-made artworks and their attributes
+- `ngrams` — Google Ngram datasets used for cultural frequency analysis
+- `artistas_mostras` — bipartite network dataset linking artists and exhibitions
+
 # A biografia do ready-made, da natureza-morta a Rauschenberg
 
 **Autor:** Felipe Eduardo Lázaro Braga  
@@ -63,3 +69,4 @@ This study was financed in part by the São Paulo Research Foundation (FAPESP), 
 
 
 The opinions, hypotheses, conclusions, and recommendations expressed in this material are the sole responsibility of the author and do not necessarily reflect the views of FAPESP.
+
